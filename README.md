@@ -14,3 +14,15 @@ The visual analytics community has proposed several user modeling algorithms to 
 - [Ottley, A., Garnett, R., & Wan, R. (2019). Follow the clicks: Learning and anticipating mouse interactions during exploratory data analysis. In Computer Graphics Forum (Vol. 38, No. 3, pp. 41-52).](http://visualdata.wustl.edu/files/predicting-clicks.pdf)
 - [Wall, E., Blaha, L. M., Franklin, L., & Endert, A. (2017). Warning, bias may occur: A proposed approach to detecting cognitive bias in interactive visual analytics. In 2017 IEEE Conference on Visual Analytics Science and Technology (VAST) (pp. 104-115).](https://emilywall.github.io/media/papers/BiasVAST17.pdf)
 - [Zhou, Z., Wen, X., Wang, Y., & Gotz, D. (2021). Modeling and Leveraging Analytic Focus During Exploratory Visual Analysis. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (pp. 1-15).](https://vaclab.unc.edu/publication/chi_2021_zhou/chi_2021_zhou.pdf)
+
+## Directory Overview
+The following provides an overview of the directories in this repository.
+
+### implementation 
+- Contains all implementations of selected user modeling techniques as well as the script for the ensemble method.
+### notebooks
+- Contains Jupyter Notebook files for setting up the analyses and evaluating the techniques.
+### data
+- Contains the full user study datasets along with the corresponding user interaction logs.
+### output
+- Contains the outputs from evaluations as well as the figures included in the paper.
