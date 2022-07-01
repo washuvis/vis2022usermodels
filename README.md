@@ -18,11 +18,13 @@ The visual analytics community has proposed several user modeling algorithms to 
 ## Directory Overview
 The following provides an overview of the directories in this repository.
 
+### data
+- Contains the full user study datasets along with the corresponding user interaction logs.
 ### implementation 
 - Contains all implementations of selected user modeling techniques as well as the script for the ensemble method.
 ### notebooks
 - Contains Jupyter Notebook files for setting up the analyses and evaluating the techniques.
-### data
-- Contains the full user study datasets along with the corresponding user interaction logs.
 ### output
 - Contains the outputs from evaluations as well as the figures included in the paper.
+### related_work_coding.pdf
+- PDF containing all manuscripts reviewed for this paper.
