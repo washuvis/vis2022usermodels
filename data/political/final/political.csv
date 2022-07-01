@@ -1,0 +1,181 @@
+id,party,gender,first_name,last_name,occupation,age,political_experience,policy_strength_ban_abortion_after_6_weeks,policy_strength_legalize_medical_marijuana,policy_strength_increase_medicare_funding,policy_strength_ban_alcohol_sales_sundays
+p129,Democrat,Female,Theda,Kim,Doctor,60,9,-3,-1,2,-3
+p050,Democrat,Female,Barbara,Oleary,Lawyer,60,9,-3,0,2,-3
+p074,Democrat,Female,Jill,Brunson,Career Politician,65,10,-3,0,2,-3
+p081,Democrat,Female,Debra,Thomas,Scientist,51,9,-3,0,2,-3
+p169,Democrat,Male,Ralph,Odell,Business,56,7,-3,1,0,-3
+p120,Democrat,Female,Denise,Jacobsen,Lawyer,47,11,-3,1,2,-3
+p002,Democrat,Female,Melissa,Gold,Lawyer,88,4,-3,1,2,-3
+p086,Democrat,Female,Rita,Wilhelm,Career Politician,40,5,-3,1,2,-3
+p161,Democrat,Female,Karen,Rabello,Scientist,59,12,-3,1,2,-3
+p040,Democrat,Male,William,Estes,Lawyer,67,8,-2,1,3,-3
+p035,Democrat,Female,Catherine,Dammann,Lawyer,49,11,-2,2,-1,-3
+p062,Democrat,Female,Mary,Bonine,Lawyer,54,8,-2,2,0,-3
+p003,Democrat,Male,Jack,Hopkins,Career Politician,65,1,-3,2,1,-3
+p100,Democrat,Female,Michelle,Williams,Lawyer,59,6,-3,2,1,-3
+p114,Democrat,Male,Randall,Edwards,Career Politician,53,4,-2,2,1,-3
+p088,Democrat,Male,Robert,Montondo,Educator,47,7,-3,2,2,-3
+p102,Democrat,Male,William,Epstein,Scientist,56,7,-3,2,2,-3
+p021,Democrat,Male,Juan,Mackey,Business,63,8,-2,2,2,-3
+p054,Democrat,Male,Curtis,Drew,Lawyer,47,7,-2,2,2,-3
+p056,Democrat,Female,Daisy,Powell,Lawyer,64,12,-1,2,2,-3
+p136,Democrat,Male,Alonzo,Carlson,Lawyer,59,7,-1,2,2,-3
+p067,Democrat,Male,Adam,Harvey,Lawyer,52,5,-3,2,3,-3
+p146,Democrat,Male,John,Bruner,Lawyer,49,9,-2,2,3,-3
+p159,Democrat,Female,Meagan,Brooks,Lawyer,68,10,-1,2,3,-3
+p174,Democrat,Male,Mark,Nielsen,Educator,64,9,-1,2,3,-3
+p023,Democrat,Male,Larry,Pettway,Career Politician,62,14,0,3,0,-3
+p093,Democrat,Female,Vera,Schlossberg,Career Politician,64,10,-3,3,1,-3
+p029,Democrat,Male,Juan,January,Career Politician,52,10,-3,3,1,-3
+p053,Democrat,Female,Eva,Copeland,Career Politician,51,6,-2,3,1,-3
+p028,Democrat,Female,Gladys,Richard,Scientist,63,7,-2,3,1,-3
+p051,Democrat,Male,Jeremy,Scott,Lawyer,54,11,-2,3,1,-3
+p101,Democrat,Male,Santos,Renteria,Lawyer,71,9,-3,3,2,-3
+p139,Democrat,Female,Ginny,Gobel,Educator,50,9,-1,3,2,-3
+p007,Democrat,Female,Janine,Vasquez,Lawyer,49,13,0,3,2,-3
+p014,Democrat,Male,David,Collins,Business,67,9,-3,3,3,-3
+p033,Democrat,Male,James,Treadwell,Lawyer,48,10,-3,3,3,-3
+p082,Democrat,Female,Susan,Anderson,Business,69,10,-3,3,3,-3
+p116,Democrat,Male,Antoine,Lecompte,Career Politician,45,11,-3,2,2,-2
+p041,Democrat,Female,Bridget,Nelson,Educator,74,10,-2,2,2,-2
+p052,Democrat,Female,Susan,Bagley,Business,59,10,-2,2,2,-2
+p128,Democrat,Female,Velma,Herren,Educator,60,7,-2,2,2,-2
+p138,Democrat,Female,Lynne,Woods,Educator,54,8,-1,2,2,-2
+p142,Democrat,Female,Janice,Grable,Business,57,8,-3,3,3,-2
+p092,Democrat,Female,Yvette,Ruhl,Scientist,69,5,-3,3,3,-2
+p057,Democrat,Female,Josie,Strunk,Business,74,9,-3,3,3,-2
+p119,Democrat,Male,Wilford,Kachermeyer,Lawyer,53,4,-3,3,3,-2
+p037,Democrat,Female,Yukiko,Jones,Educator,52,9,-3,3,3,-2
+p168,Democrat,Male,Prince,Noriega,Scientist,77,2,-3,3,3,-2
+p165,Democrat,Male,Leonard,Grein,Lawyer,44,4,-3,3,3,-2
+p149,Democrat,Male,John,Craycraft,Lawyer,77,12,-2,3,3,-2
+p147,Democrat,Female,Robin,Turner,Career Politician,49,2,-2,3,3,-2
+p046,Democrat,Male,Keith,Gabbert,Lawyer,42,4,-2,3,3,-2
+p060,Democrat,Female,Tracy,Spurling,Educator,51,11,-2,3,3,-2
+p075,Democrat,Female,Charlene,Perez,Educator,54,11,-1,3,3,-2
+p038,Democrat,Male,Jack,Miller,Business,67,8,-1,3,3,-2
+p042,Democrat,Female,Janis,Peterson,Career Politician,45,9,-1,3,3,-2
+p061,Democrat,Female,Connie,Jaji,Business,36,1,0,3,3,-2
+p043,Democrat,Male,Keith,Perdomo,Lawyer,36,8,0,3,3,-2
+p017,Democrat,Male,Douglas,Worley,Lawyer,58,8,1,3,3,-2
+p171,Republican,Male,Jose,Lucas,Career Politician,57,8,2,-2,-1,-1
+p167,Democrat,Male,Ronald,Chase,Career Politician,68,3,-3,0,3,-1
+p111,Democrat,Female,Virginia,Hughart,Business,53,11,-3,1,0,-1
+p008,Democrat,Female,Susan,Moses,Business,74,3,-3,1,3,-1
+p087,Democrat,Male,Dennis,Walsh,Career Politician,48,10,-2,1,3,-1
+p162,Democrat,Female,Stephine,Bornhorst,Career Politician,57,9,-2,1,3,-1
+p039,Democrat,Female,Betty,Whitley,Educator,57,6,-3,2,1,-1
+p098,Democrat,Female,Rosemary,Howard,Business,62,14,-2,2,1,-1
+p069,Democrat,Male,Wayne,Wilson,Business,38,10,-3,3,3,-1
+p031,Democrat,Female,Elizabeth,Charron,Career Politician,66,8,-3,3,3,-1
+p005,Democrat,Female,Melissa,Oliver,Lawyer,56,4,-1,3,3,-1
+p009,Republican,Male,Jonathan,Johnson,Doctor,73,4,1,-3,-3,0
+p164,Republican,Male,Steve,Worley,Career Politician,49,1,2,-3,-3,0
+p135,Republican,Male,Carlos,Bacon,Lawyer,58,5,1,-3,-2,0
+p011,Republican,Male,Mark,Maxham,Lawyer,53,5,2,-1,-3,0
+p072,Republican,Male,Stuart,Smith,Business,56,8,1,-1,-2,0
+p079,Democrat,Male,Raymond,Allen,Business,59,10,-3,3,3,0
+p099,Democrat,Female,Debbie,Brennan,Lawyer,50,7,-3,3,3,0
+p004,Democrat,Female,Amy,Dueber,Lawyer,69,10,-2,3,3,0
+p133,Democrat,Male,Ryan,Schreiber,Lawyer,44,6,-2,3,3,0
+p065,Republican,Female,Mary,Davis,Lawyer,46,10,0,-3,-3,1
+p027,Republican,Male,Roger,Arguello,Career Politician,63,8,1,-3,-3,1
+p076,Republican,Male,Florentino,Mccord,Lawyer,46,6,1,-3,-3,1
+p083,Republican,Male,Mauro,Stock,Career Politician,58,11,1,-3,-3,1
+p089,Republican,Male,Donald,Merritt,Lawyer,65,12,3,-3,-3,1
+p123,Republican,Male,Oliver,Garcia,Lawyer,51,5,1,-3,-3,1
+p124,Republican,Male,Arnold,Mackin,Lawyer,53,6,2,-3,-2,1
+p047,Republican,Male,Charles,Brock,Lawyer,57,7,1,-3,-2,1
+p001,Republican,Female,Jane,Smith,Career Politician,64,5,2,-3,-2,1
+p126,Republican,Female,Jennifer,Pelosi,Career Politician,72,8,2,-3,-2,1
+p077,Republican,Male,Henry,Riggs,Lawyer,63,8,3,-1,-1,1
+p113,Republican,Male,Steve,Detweiler,Lawyer,62,12,2,-1,0,1
+p166,Republican,Male,Harold,Tolbert,Lawyer,49,6,2,-2,-3,1
+p063,Republican,Female,Debra,Ramirez,Lawyer,47,18,1,-2,-1,1
+p107,Republican,Male,Edward,Creach,Lawyer,44,10,1,-2,-1,1
+p121,Republican,Male,Christopher,Buckley,Lawyer,52,9,1,-2,-1,2
+p084,Republican,Male,John,Williams,Educator,41,9,2,-2,-1,2
+p055,Republican,Male,John,Martinez,Career Politician,69,4,1,-1,-3,2
+p080,Republican,Male,Timothy,Shaw,Business,35,9,2,-1,-3,2
+p141,Republican,Female,Diana,Grimsley,Career Politician,65,5,1,-1,-2,2
+p095,Republican,Male,Robert,Chugg,Business,72,11,2,-1,-2,2
+p112,Republican,Male,Paul,Caldwell,Lawyer,47,15,2,-1,-2,2
+p085,Republican,Male,Chester,Zamora,Lawyer,75,8,1,-1,1,2
+p104,Republican,Male,Karl,Ramirez,Scientist,65,9,0,0,-3,2
+p019,Democrat,Female,Hilda,Lyons,Lawyer,44,5,-3,3,3,1
+p026,Republican,Male,Trevor,Bryon,Career Politician,67,3,3,-3,-3,2
+p158,Republican,Male,Robert,Beck,Educator,67,7,3,-3,-3,2
+p160,Republican,Male,Jason,Stewart,Business,54,10,3,-3,-3,2
+p010,Republican,Male,Gary,Schwartz,Career Politician,64,7,3,-3,-3,2
+p020,Republican,Male,Pablo,Petersen,Scientist,67,1,3,-3,-3,2
+p151,Republican,Male,David,Powers,Lawyer,36,9,3,-3,-3,2
+p045,Republican,Female,Leanne,Wright,Doctor,47,5,-1,-3,-3,2
+p097,Republican,Male,Ryan,Kelsey,Lawyer,59,11,2,-3,-3,2
+p172,Republican,Male,Kevin,Perkins,Doctor,76,8,3,-3,-3,2
+p132,Republican,Male,Steven,Satcher,Business,68,6,2,-3,-3,2
+p156,Republican,Male,Thomas,Velez,Career Politician,53,5,3,-3,-3,2
+p073,Republican,Male,Frank,Hilton,Business,54,10,3,-3,-3,2
+p117,Republican,Male,Mark,Terry,Lawyer,42,7,3,-3,-3,2
+p170,Republican,Male,Richard,Alcala,Lawyer,56,10,3,-3,-3,2
+p176,Republican,Male,Benjamin,Hanford,Lawyer,57,4,3,-3,-3,2
+p058,Republican,Female,Crystal,Olenick,Career Politician,63,12,0,-3,-3,2
+p016,Republican,Female,Andrea,Dufour,Business,57,5,2,-3,-3,2
+p154,Republican,Male,Jeremy,Garrison,Lawyer,48,9,2,-3,-3,2
+p025,Republican,Male,Stewart,Devereux,Lawyer,58,7,3,-3,-3,2
+p125,Republican,Male,Myron,Kinser,Career Politician,73,5,3,-3,-2,2
+p155,Republican,Male,Bobby,Fagnani,Business,69,6,3,-3,-2,2
+p140,Republican,Male,Patrick,Leblanc,Business,49,11,3,-3,-2,2
+p064,Republican,Male,Lanny,Hernandez,Lawyer,53,9,2,-1,-2,2
+p180,Republican,Female,Tiffany,Lambert,Lawyer,56,12,2,-1,-2,3
+p071,Republican,Male,Luis,Cool,Career Politician,61,10,3,-1,-2,3
+p018,Republican,Female,Shanita,Mcgloster,Career Politician,68,10,3,-1,-1,3
+p030,Republican,Male,Andre,Henderson,Scientist,61,3,3,-1,0,3
+p015,Republican,Male,Charles,Candelaria,Lawyer,73,6,1,-2,-3,3
+p070,Republican,Female,Donna,Ellis,Career Politician,41,11,2,-2,-3,3
+p118,Republican,Female,Bea,Malave,Scientist,49,13,2,-2,-3,3
+p036,Republican,Male,Johnnie,Barwick,Career Politician,59,10,2,-2,-3,3
+p178,Republican,Male,Charlie,Cathey,Career Politician,50,9,2,-2,-3,3
+p122,Republican,Male,Derek,Grothe,Career Politician,52,6,3,-2,-2,3
+p143,Republican,Male,Raymond,Rae,Scientist,53,14,3,-2,-2,3
+p145,Republican,Female,Tina,Johnson,Educator,48,7,3,-2,-2,3
+p163,Republican,Male,Kevin,Borelli,Business,47,5,3,-2,-2,3
+p144,Republican,Male,Billy,Ritchie,Lawyer,68,8,2,-2,-1,3
+p175,Republican,Male,Eric,Lyman,Lawyer,55,14,2,-2,-1,3
+p012,Republican,Male,James,Green,Business,72,10,3,-2,-1,3
+p044,Republican,Male,Everett,Huff,Career Politician,50,10,3,-2,0,3
+p068,Republican,Male,Michael,Cloud,Career Politician,38,7,2,-1,-2,3
+p130,Republican,Male,Robert,Sirois,Business,68,9,2,-1,-2,3
+p153,Republican,Male,Thomas,Kovach,Business,63,12,2,0,-3,3
+p103,Republican,Male,Jeremy,Bennett,Doctor,50,11,3,0,-3,3
+p177,Republican,Male,Scott,Kershner,Doctor,58,3,3,0,-2,3
+p048,Republican,Male,Roberto,Haynes,Lawyer,43,8,3,1,-3,3
+p105,Republican,Male,Leo,Cooley,Career Politician,66,12,2,-3,-3,3
+p148,Republican,Male,Donald,Wine,Business,55,9,2,-3,-3,3
+p066,Republican,Male,Larry,Dufrene,Career Politician,53,8,2,-3,-3,3
+p137,Republican,Male,Christopher,Perry,Business,72,10,3,-3,-3,3
+p094,Republican,Male,Keith,French,Scientist,48,8,3,-3,-3,3
+p108,Republican,Male,Korey,Pearce,Lawyer,83,7,0,-3,-3,3
+p059,Republican,Male,Lesley,Simmons,Business,53,5,3,-3,-3,3
+p127,Republican,Male,Michael,Marshall,Lawyer,57,12,3,-3,-3,3
+p150,Republican,Male,Paul,Sanford,Doctor,71,6,3,-3,-3,3
+p109,Republican,Male,Max,Garza,Career Politician,50,9,2,-3,-3,3
+p006,Republican,Male,Frank,Duff,Career Politician,68,7,3,-3,-3,3
+p078,Republican,Male,Willie,Weber,Lawyer,53,9,3,-3,-2,3
+p022,Republican,Male,Alphonso,Rubenstein,Educator,54,7,0,-3,-2,3
+p106,Republican,Male,Scott,Campbell,Business,37,8,3,-1,-2,3
+p110,Republican,Male,Calvin,Simmons,Business,55,10,3,-1,-1,3
+p096,Republican,Male,Barry,Pilkinton,Scientist,37,5,3,-1,0,3
+p134,Republican,Male,Joe,Stiteler,Business,53,14,2,-2,-3,3
+p013,Republican,Male,David,Reinschmidt,Career Politician,71,9,3,-2,-3,3
+p032,Republican,Male,Matthew,Stevens,Lawyer,48,10,3,-2,-2,3
+p090,Republican,Male,Roy,Henke,Business,59,6,3,-2,-2,3
+p091,Republican,Male,Carlos,Gracely,Scientist,74,10,3,-2,-2,3
+p131,Republican,Male,Robert,Goudreau,Educator,65,6,3,-2,-2,3
+p157,Republican,Male,Arnold,Mendez,Doctor,56,8,3,-2,-2,3
+p179,Republican,Male,Lawrence,Pulido,Business,63,10,3,-2,-2,3
+p024,Republican,Male,Robert,Yeoman,Lawyer,63,11,3,-2,-2,3
+p049,Republican,Male,Anthony,Luce,Lawyer,75,6,3,-2,-1,3
+p152,Republican,Female,Barbara,Bechtel,Business,51,5,3,-2,-1,3
+p115,Republican,Male,Dallas,Rudy,Career Politician,58,8,3,-2,-1,3
+p173,Republican,Female,Barbara,Sells,Career Politician,61,12,3,-2,0,3
+p034,Republican,Male,Dana,Reynolds,Business,63,8,3,0,-1,3

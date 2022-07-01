@@ -1,0 +1,12 @@
+id,party,gender,first_name,last_name,occupation,age,political_experience,policy_strength_ban_abortion_after_6_weeks,policy_strength_legalize_medical_marijuana,policy_strength_increase_medicare_funding,policy_strength_ban_alcohol_sales_sundays,in_committee
+59,Democrat,Female,Tracy,Spurling,Educator,51,11,-2,3,3,-2,True
+12,Republican,Male,David,Reinschmidt,Career Politician,71,9,3,-2,-3,3,True
+138,Democrat,Female,Ginny,Gobel,Educator,50,9,-1,3,2,-3,True
+23,Republican,Male,Robert,Yeoman,Lawyer,63,11,3,-2,-2,3,False
+26,Republican,Male,Roger,Arguello,Career Politician,63,8,1,-3,-3,1,True
+94,Republican,Male,Robert,Chugg,Business,72,11,2,-1,-2,2,True
+115,Democrat,Male,Antoine,Lecompte,Career Politician,45,11,-3,2,2,-2,True
+106,Republican,Male,Edward,Creach,Lawyer,44,10,1,-2,-1,1,True
+139,Republican,Male,Patrick,Leblanc,Business,49,11,3,-3,-2,2,True
+39,Democrat,Male,William,Estes,Lawyer,67,8,-2,1,3,-3,True
+74,Democrat,Female,Charlene,Perez,Educator,54,11,-1,3,3,-2,True

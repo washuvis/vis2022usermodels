@@ -31,14 +31,14 @@ underlying_data_paths = {
     'stl': '../data/stl_crimes/dots.csv',
     'vast': '../data/vast_2011_challenge/vast_data_sample_reduced.pkl',
     'boardrooms': '../data/boardrooms/boardrooms_data.csv',
-    'political': '../data/wall/gender/political.csv'
+    'political': '../data/political/final/political.csv'
 }
 
 user_interaction_data_paths = {
     'stl': '../data/stl_crimes/stl_combined_interactions.csv',
     'vast': '../data/vast_2011_challenge/bookmark_interactions_clean.pkl',
     'boardrooms': '../data/boardrooms/boardrooms_combined_interactions.csv',
-    'political': '../data/wall/gender/wall_political_interactions.csv'
+    'political': '../data/political/final/wall_political_interactions.csv'
 }
 
 continuous_attributes = {

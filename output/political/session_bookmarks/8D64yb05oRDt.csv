@@ -1,0 +1,12 @@
+id,party,gender,first_name,last_name,occupation,age,political_experience,policy_strength_ban_abortion_after_6_weeks,policy_strength_legalize_medical_marijuana,policy_strength_increase_medicare_funding,policy_strength_ban_alcohol_sales_sundays,in_committee
+86,Democrat,Male,Dennis,Walsh,Career Politician,48,10,-2,1,3,-1,True
+81,Democrat,Female,Susan,Anderson,Business,69,10,-3,3,3,-3,True
+140,Republican,Female,Diana,Grimsley,Career Politician,65,5,1,-1,-2,2,True
+13,Democrat,Male,David,Collins,Business,67,9,-3,3,3,-3,True
+30,Democrat,Female,Elizabeth,Charron,Career Politician,66,8,-3,3,3,-1,True
+35,Republican,Male,Johnnie,Barwick,Career Politician,59,10,2,-2,-3,3,True
+42,Democrat,Male,Keith,Perdomo,Lawyer,36,8,0,3,3,-2,True
+12,Republican,Male,David,Reinschmidt,Career Politician,71,9,3,-2,-3,3,True
+3,Democrat,Female,Amy,Dueber,Lawyer,69,10,-2,3,3,0,True
+94,Republican,Male,Robert,Chugg,Business,72,11,2,-1,-2,2,False
+119,Democrat,Female,Denise,Jacobsen,Lawyer,47,11,-3,1,2,-3,True

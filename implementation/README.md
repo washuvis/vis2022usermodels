@@ -3,7 +3,7 @@
 This folder contains the standardized implementations of the seven selected user modeling techniques we compared in this paper.
 
 - `ensemble_run.py`
-    - Script to run the ensemble method.
+    - Script to run the ensemble method. (*+)
 - `gotz_adaptive_contextualization.py` (+)
     - Implementation of Adaptive Contextualization by Gotz et al.
 - `healey_adaboost_naive_bayes.py` (*)
