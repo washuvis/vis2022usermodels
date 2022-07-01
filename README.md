@@ -1,4 +1,4 @@
-# A Unified Comparison of User Modeling Techniques for Next Interaction Prediction and Exploration Bias
+# A Unified Comparison of User Modeling Techniques for Data Interaction Prediction and Exploration Bias
 <b>Sunwoo Ha, Shayan Monadjemi, Roman Garnett, and Alvitta Ottley</b>
 
 This repository contains the standardized implementations of all 7 user modeling algorithms, along with the ensemble method, the user study data sets and corresponding interaction logs, and analysis scripts for "A Unified Comparison of User Modeling Techniques for Next Interaction Predicition and Exploration Bias."
