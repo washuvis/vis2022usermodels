@@ -20,5 +20,5 @@ This folder contains the standardized implementations of the seven selected user
     - Implemenation of Analytic Focus by Zhou et al.
 
 <br>
-* denotes that the technique can predict next interaction <br>
+* denotes that the technique can predict next data interaction <br>
 + denotes that the techchique can detect exploration bias
